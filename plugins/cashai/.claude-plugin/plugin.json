@@ -1,0 +1,11 @@
+{
+  "name": "cashai",
+  "description": "Consultor de renda com marketing digital no Brasil: modelos de negócio, plataformas, tráfego, precificação, impostos (MEI/Simples) e compliance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daysson Rodrigues"
+  },
+  "repository": "https://github.com/dayssonrodrigues/cashai",
+  "license": "MIT",
+  "keywords": ["marketing digital", "brasil", "renda", "afiliados", "infoprodutos"]
+}

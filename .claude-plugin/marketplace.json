@@ -1,0 +1,20 @@
+{
+  "name": "cashai",
+  "owner": {
+    "name": "Daysson Rodrigues"
+  },
+  "metadata": {
+    "description": "CashAI: plugins para gerar renda no Brasil com marketing digital.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "cashai",
+      "source": "./plugins/cashai",
+      "description": "Consultor de renda com marketing digital no Brasil: modelos de negócio, plataformas, tráfego, precificação, impostos (MEI/Simples) e compliance.",
+      "version": "1.0.0",
+      "category": "business",
+      "keywords": ["marketing digital", "brasil", "renda extra", "afiliados", "infoprodutos", "trafego pago", "mei"]
+    }
+  ]
+}
