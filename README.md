@@ -1,6 +1,6 @@
 # CashAI
 
-Marketplace de plugins para o Claude com conhecimento sobre **como gerar renda no Brasil com marketing digital**: modelos de negócio, plataformas (Hotmart, Kiwify, marketplaces), tráfego pago e orgânico, precificação e métricas, MEI/Simples Nacional, LGPD, CDC e CONAR.
+Marketplace de plugins para o Claude com conhecimento para **quem quer fazer renda extra pela internet no Brasil** com marketing digital: caminhos para começar, plataformas (Hotmart, Kiwify, marketplaces), tráfego pago e orgânico, quanto cobrar, métricas e como evitar golpes.
 
 ## Instalar no Claude (web/desktop)
 
@@ -31,10 +31,9 @@ plugins/cashai/
       plataformas-e-pagamentos.md
       trafego-e-canais.md
       precificacao-e-metricas.md
-      tributacao-e-formalizacao.md
       legislacao-e-compliance.md
 ```
 
 ## Aviso
 
-Conteúdo educativo. Valores, taxas e regras tributárias mudam com frequência — confirme nas fontes oficiais e com um contador. Nenhuma estratégia garante ganhos.
+Conteúdo educativo. Valores e taxas mudam com frequência — confirme nas plataformas e fontes oficiais. Nenhuma estratégia garante ganhos.

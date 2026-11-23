@@ -12,7 +12,7 @@
 | **Braip** | Forte em produtos físicos/"nutra" e pagamento na entrega. |
 | **Ticto, Perfect Pay, Greenn, Cakto** | Alternativas com taxas e recursos variados. |
 
-Pontos a comparar: taxa por venda, prazo de saque/liberação, antecipação, taxa de parcelamento (juros repassados ao comprador ou não), recuperação de carrinho/Pix, order bump/upsell, área de membros, regras de reembolso, emissão de nota fiscal.
+Pontos a comparar: taxa por venda, prazo de saque/liberação, antecipação, taxa de parcelamento (juros repassados ao comprador ou não), recuperação de carrinho/Pix, order bump/upsell, área de membros, regras de reembolso.
 
 ## Marketplaces e afiliados de varejo
 - **Mercado Livre** (maior marketplace do país; programa de afiliados), **Shopee** (forte em baixo ticket e afiliados de "achadinhos"), **Amazon Brasil** (Amazon Associados), **Magalu** (Parceiro Magalu), **TikTok Shop** (lançado no Brasil em 2025; vendas via vídeo/live e afiliados criadores), **Shein** (marketplace).
@@ -36,4 +36,4 @@ Pontos a comparar: taxa por venda, prazo de saque/liberação, antecipação, ta
 - **Freelance:** Workana, 99Freelas, GetNinjas, Fiverr, Upwork, LinkedIn.
 
 ## Recebimentos do exterior
-Plataformas estrangeiras (YouTube/AdSense, Upwork, Fiverr, Amazon US etc.) pagam via remessa internacional ou serviços como Wise/Payoneer. Para pessoa física, rendimentos do exterior exigem recolhimento mensal via carnê-leão (ver `tributacao-e-formalizacao.md`).
+Plataformas estrangeiras (YouTube/AdSense, Upwork, Fiverr, Amazon US etc.) pagam via remessa internacional ou serviços como Wise/Payoneer.

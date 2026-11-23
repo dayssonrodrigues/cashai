@@ -10,7 +10,7 @@
 - **Direito de arrependimento (art. 49):** compras fora do estabelecimento (internet) podem ser canceladas em 7 dias com reembolso integral. Muitas plataformas de infoproduto oferecem garantia de 7 dias ou mais.
 - Oferta e publicidade vinculam o fornecedor: o que foi prometido deve ser entregue.
 - Proibida publicidade enganosa ou abusiva (arts. 36–38).
-- Decreto do Comércio Eletrônico (7.962/2013): identificar o fornecedor (nome, CNPJ/CPF, endereço), informações claras sobre preço, condições e atendimento.
+- Quem vende produto próprio online deve informar claramente quem vende, preço, condições e canal de atendimento (Decreto 7.962/2013).
 
 ## Publicidade e influenciadores
 - **CONAR — Guia de Publicidade por Influenciadores Digitais:** publicidade deve ser identificada ("#publi", "publicidade", "parceria paga"), inclusive permutas e afiliados quando há vínculo comercial.
@@ -29,8 +29,8 @@
 - Mentores que mostram só print de faturamento sem lucro, sem custos de tráfego.
 - Exigência de pagamento via Pix para pessoa física desconhecida para "taxa de saque".
 
-## Contratos de prestação de serviço (freelancer/agência)
-Inclua: escopo detalhado e entregáveis, prazo e vigência mínima, valor e forma de pagamento, reajuste, quem paga a verba de anúncios (sempre o cliente, direto na plataforma), propriedade das contas e criativos, confidencialidade, aviso prévio para cancelamento (ex.: 30 dias), multa, limitação de responsabilidade por resultados (marketing é obrigação de meio, não de resultado), LGPD (papéis de controlador/operador).
+## Combinado com clientes (freelancer)
+Mesmo em renda extra, combine por escrito (pode ser mensagem ou documento simples): o que será entregue, prazo, valor e forma de pagamento (de preferência adiantado ou 50%), quem paga os anúncios (sempre o cliente, direto na plataforma), quantas alterações estão incluídas e aviso prévio para cancelar. Não prometa resultado garantido.
 
 ## Direitos autorais e imagem
 - Não use músicas, imagens ou vídeos sem licença em anúncios.

@@ -1,4 +1,4 @@
-# Modelos de renda com marketing digital no Brasil
+# Caminhos de renda extra pela internet no Brasil
 
 > Faixas de valores são referências aproximadas de mercado (2025–2026) e variam por região, nicho e experiência. Use como ordem de grandeza, não como promessa.
 
@@ -18,7 +18,6 @@
 | Coprodutor / estrategista de lançamento | Baixo | 2–6 meses | Não (precisa de expert parceiro) | Alta | Alta |
 | Criador de conteúdo (monetização) | Baixo | 6–24 meses | Sim | Alta | Alta |
 | E-commerce / dropshipping / TikTok Shop | Médio/Alto | 1–4 meses | Não | Alta | Alta |
-| Agência / assessoria de marketing | Médio | 2–6 meses | Não | Alta | Alta |
 | Low-ticket / produtos digitais simples (templates, planilhas, packs) | Baixo | 1–3 meses | Não (tráfego) | Média | Média |
 
 ## Detalhamento
@@ -36,7 +35,7 @@ Demanda alta em pequenos negócios locais (clínicas, academias, restaurantes, i
 
 **Como conseguir os primeiros clientes:** portfólio com 3–5 trabalhos (pode ser para conhecidos ou fictícios marcados como exemplo); abordagem ativa via Instagram/WhatsApp/visita presencial a comércios locais; oferta clara com resultado ("mais mensagens no WhatsApp", "agenda cheia"); Workana, 99Freelas, GetNinjas, LinkedIn; indicações.
 
-**Meta típica:** 3–5 clientes recorrentes = R$ 3.000 – 10.000/mês.
+**Meta típica de renda extra:** 1–3 clientes recorrentes = R$ 800 – 4.000/mês, com algumas horas por semana.
 
 ### 2. Marketing de afiliados
 Promover produtos de terceiros e ganhar comissão.
@@ -60,10 +59,7 @@ Fontes de receita: publis (permutas e pagas), afiliados, produtos próprios, mon
 ### 5. E-commerce, dropshipping e TikTok Shop
 - Dropshipping nacional (fornecedores brasileiros) tende a ser mais viável que importação, por prazo de entrega e tributação de remessas internacionais (taxação de compras internacionais/"taxa das blusinhas").
 - Vender em marketplaces (Mercado Livre, Shopee, Amazon, Magalu, TikTok Shop) dá tráfego pronto, mas com taxas de 10%–20%+ e concorrência por preço.
-- Exige controle de estoque/fornecedor, frete, reembolsos e nota fiscal.
-
-### 6. Agência / assessoria
-Evolução natural do freelancer: contratar ou terceirizar execução, focar em vendas e gestão. Ter contrato, escopo claro e processos (onboarding, relatórios mensais).
+- Exige controle de fornecedor, frete e reembolsos e mais tempo e dinheiro — geralmente não é o melhor primeiro passo para renda extra.
 
 ## Combinações recomendadas por perfil
 
@@ -71,6 +67,7 @@ Evolução natural do freelancer: contratar ou terceirizar execução, focar em 
 |---|---|
 | Zero capital, precisa de renda rápida | Serviço local (social media/Google Meu Negócio/edição) + UGC |
 | Tem R$ 1–3 mil e tolera risco | Aprender tráfego atendendo 1–2 clientes + testes pequenos como afiliado |
-| Tem profissão/especialidade (nutri, advogado, professor, personal) | Conteúdo no nicho + infoproduto/mentoria + serviço próprio |
+| Tem profissão/especialidade (nutri, professor, personal, cabeleireira) | Conteúdo no nicho + e-book/mentoria/aula online |
+| Só tem celular e pouco tempo | UGC, achadinhos (afiliado Shopee/Amazon/ML/TikTok Shop), atendimento por WhatsApp |
 | Não quer aparecer | Tráfego, copy, edição, perfis de "achadinhos", produtos digitais simples |
 | Gosta de vender/conversar | Social selling, closer/SDR de lançamentos (comissão), atendimento via WhatsApp |
